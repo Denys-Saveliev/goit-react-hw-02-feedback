@@ -1,0 +1,15 @@
+.button {
+   display: inline-block;
+   margin-left: 15px;
+   padding: 3px 10px;
+   background-color: inherit;
+   border: 1px solid rgb(209, 208, 208);
+   border-radius: 8px;
+   font-weight: 600;
+   cursor: pointer;
+   text-transform: capitalize;
+}
+
+.btn__container {
+   margin-bottom: 30px;
+}
