@@ -1,6 +1,15 @@
 @import-normalize;
 /* bring in normalize.css styles */
 
+#root {
+   width: 300px;
+   margin: 0 auto;
+   border-radius: 10px;
+   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   padding: 10px;
+   background-color: rgb(231, 223, 223);
+}
+
 body {
    padding: 40px;
    margin: 0;

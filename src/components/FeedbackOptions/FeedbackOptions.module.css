@@ -8,8 +8,15 @@
    font-weight: 600;
    cursor: pointer;
    text-transform: capitalize;
+   transition: all 250ms ease;
+}
+
+.button:hover {
+   background-color: gray;
+   color: #FFFFFF;
 }
 
 .btn__container {
-   margin-bottom: 30px;
+   width: 220px;
+   margin: 0 auto 30px
 }
