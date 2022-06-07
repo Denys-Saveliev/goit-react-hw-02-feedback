@@ -1,5 +1,4 @@
-@import-normalize;
-/* bring in normalize.css styles */
+@import 'normilize.css';
 
 #root {
    width: 300px;
